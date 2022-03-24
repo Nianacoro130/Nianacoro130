@@ -1,3 +1,5 @@
+<img src="https://github.com/Nianacoro130/Nianacoro130/blob/main/Larana,%20Inc..gif?raw=true" width="100%"  height="300px">
+
 # ------Nianacoro KONARÉ------👋 
 
 
