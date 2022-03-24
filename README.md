@@ -5,7 +5,7 @@
 
 ## I'm a IT developer student !!
 
-- 👀 I’m interested in Web developpment and programming
+- 👀 I’m interested in Web development and programming
 - 🌱 I’m currently learning  symfony ,react , python, C 
 - 💞️ I’m looking to collaborate on a fullstack development position in apprenticeship
 - 📫 How to reach me by mail  Knianacoro@gmail.com
@@ -26,7 +26,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Symfony" width="26px" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-symfony-is-a-php-web-application-framework-logo-green-tal-revivo.png" style="padding-right:10px;" />
 <img align="left" alt="Codeigniter" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png" style="padding-right:10px;" />
