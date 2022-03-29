@@ -46,6 +46,6 @@
 
 </details>
 
-<a align="left" width="26px" href="https://nkonare.000webhostapp.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-advertising-kiranshastry-lineal-color-kiranshastry.png"/></a>
+<a align="left" width="26px" href="https://n-konare.000webhostapp.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-advertising-kiranshastry-lineal-color-kiranshastry.png"/></a>
 
 
